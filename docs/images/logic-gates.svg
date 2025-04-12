@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="446.14001"
+   height="430.5"
+   viewBox="-0.5 -0.5 446.14001 430.5"
+   id="svg204"
+   sodipodi:docname="logic-gates.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview204"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7232581"
+     inkscape:cx="112.57745"
+     inkscape:cy="216.45046"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g203" />
+  <defs
+     id="defs1" />
+  <g
+     id="g204"
+     transform="translate(-48.36,-4.5)">
+    <g
+       data-cell-id="0"
+       id="g203">
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-147"
+         id="g4"
+         inkscape:export-filename="gates/GATE-0110-XOR.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g3">
+          <path
+             d="m 127.86,254 h 20 m -100,-15 h 23 m -23,30 h 23"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path1" />
+          <path
+             d="m 57.86,224 c 10.72,18.56 10.72,41.44 0,60"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path2" />
+          <path
+             d="m 87.86,224 c 17.47,0.56 33.06,12.25 40,30 -6.94,17.75 -22.53,29.44 -40,30 h -25 c 10.72,-18.56 10.72,-41.44 0,-60 z"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path3" />
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-148"
+         id="g7"
+         inkscape:export-filename="gates/GATE-1001-XNOR.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g6">
+          <path
+             d="m 127.86,334 h 20 m -100,-15 h 23 m -23,30 h 23"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path4" />
+          <path
+             d="m 57.86,304 c 10.72,18.56 10.72,41.44 0,60"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path5" />
+          <path
+             d="m 87.86,304 c 17.47,0.56 33.06,12.25 40,30 -6.94,17.75 -22.53,29.44 -40,30 h -25 c 10.72,-18.56 10.72,-41.44 0,-60 z"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path6" />
+          <circle
+             cx="131.61"
+             cy="334"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="ellipse6"
+             r="3.75" />
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-150"
+         id="g9"
+         inkscape:export-filename="gates/GATE-0111-OR.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g8">
+          <path
+             d="m 127.86,404 h 20 m -100,-15 h 23 m -23,30 h 23"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path7" />
+          <path
+             d="m 87.86,374 c 17.47,0.56 33.06,12.25 40,30 -6.94,17.75 -22.53,29.44 -40,30 h -25 c 10.72,-18.56 10.72,-41.44 0,-60 z"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path8" />
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-153"
+         id="g11"
+         inkscape:export-filename="gates/GATE-1110-NAND.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g10">
+          <path
+             d="m 239.64,174 h 20 m -100,-15 h 20 m -20,30 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path9" />
+          <path
+             d="m 179.64,144 h 30 c 16.57,0 30,13.43 30,30 0,16.57 -13.43,30 -30,30 h -30 z"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path10" />
+          <circle
+             cx="243.39"
+             cy="174"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="ellipse10"
+             r="3.75" />
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-155"
+         id="g14"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g13">
+          <path
+             d="m 159.64,254.15 h 20"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path11" />
+          <path
+             d="m 243.64,254.15 h 16"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path12" />
+          <path
+             d="m 236.64,254.15 -60,30 v -60 z"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path13" />
+          <circle
+             cx="240.64"
+             cy="254.14999"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="ellipse13"
+             r="4" />
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-156"
+         id="g16"
+         inkscape:export-filename="gates/GATE-1000-NOR.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g15">
+          <path
+             d="m 239.64,334.15 h 20 m -100,-15 h 23 m -23,30 h 23"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path14" />
+          <path
+             d="m 199.64,304.15 c 17.47,0.56 33.06,12.25 40,30 -6.94,17.75 -22.53,29.44 -40,30 h -25 c 10.72,-18.56 10.72,-41.44 0,-60 z"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path15" />
+          <circle
+             cx="243.39"
+             cy="334.14999"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="ellipse15"
+             r="3.75" />
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-164"
+         id="g18"
+         inkscape:export-filename="gates/GATE-0001-AND.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g17">
+          <path
+             d="m 127.86,104 h 20 m -100,-15 h 20 m -20,30 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path16" />
+          <path
+             d="m 67.86,74 h 30 c 16.57,0 30,13.43 30,30 0,16.57 -13.43,30 -30,30 h -30 z"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="all"
+             id="path17" />
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-185"
+         id="g25"
+         inkscape:export-filename="gates/GATE-1100-NOTA.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72">
+        <g
+           id="g19" />
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-181"
+           id="g21">
+          <g
+             id="g20">
+            <rect
+               x="394"
+               y="4"
+               width="100"
+               height="60"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect19" />
+          </g>
+        </g>
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-184"
+           id="g24">
+          <g
+             id="g23">
+            <path
+               d="M 410.67,34 H 424"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path21" />
+            <path
+               d="m 466.67,34 h 10.67"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path22" />
+            <path
+               d="M 462.01,34 422,54 V 14 Z"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path23" />
+            <ellipse
+               cx="464.67001"
+               cy="34"
+               rx="2.6668"
+               ry="2.6666667"
+               fill="#ffffff"
+               stroke="#000000"
+               pointer-events="all"
+               id="ellipse23" />
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-186"
+         id="g31"
+         inkscape:export-filename="gates/GATE-0000-FALSE.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72">
+        <g
+           id="g26" />
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-157"
+           id="g28">
+          <g
+             id="g27">
+            <rect
+               x="54"
+               y="4"
+               width="100"
+               height="60"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect26" />
+          </g>
+        </g>
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-166"
+           id="g30">
+          <g
+             id="g29">
+            <rect
+               x="81.5"
+               y="19"
+               width="45"
+               height="30"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect28" />
+            <path
+               d="M 81.5,29 104,49 126.5,29 Z"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path28" />
+            <path
+               d="M 104,19 V 29"
+               fill="none"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path29" />
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-187"
+         id="g37"
+         inkscape:export-filename="gates/GATE-1111-TRUE.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72">
+        <g
+           id="g32" />
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-179"
+           id="g34">
+          <g
+             id="g33">
+            <rect
+               x="164"
+               y="4"
+               width="100"
+               height="60"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect32" />
+          </g>
+        </g>
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-180"
+           id="g36">
+          <g
+             id="g35">
+            <rect
+               x="191.5"
+               y="19"
+               width="45"
+               height="30"
+               fill="none"
+               stroke="none"
+               transform="rotate(180,214,34)"
+               pointer-events="all"
+               id="rect34" />
+            <path
+               d="M 191.5,29 214,49 236.5,29 Z"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               transform="rotate(180,214,34)"
+               pointer-events="all"
+               id="path34" />
+            <path
+               d="M 214,19 V 29"
+               fill="none"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               transform="rotate(180,214,34)"
+               pointer-events="all"
+               id="path35" />
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-188"
+         id="g43"
+         inkscape:export-filename="gates/GATE-0101-B.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72">
+        <g
+           id="g38" />
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-189"
+           id="g40">
+          <g
+             id="g39">
+            <rect
+               x="284"
+               y="4"
+               width="100"
+               height="60"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect38" />
+          </g>
+        </g>
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-191"
+           id="g42">
+          <g
+             id="g41">
+            <path
+               d="m 304,33.81 h 60"
+               fill="none"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path40" />
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-192"
+         id="g49"
+         inkscape:export-filename="gates/GATE-1101-NOTAORB.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g44" />
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-174"
+           id="g46">
+          <g
+             id="g45">
+            <path
+               d="m 244,104 h 20 M 164,89 h 23 m -23,30 h 23"
+               fill="none"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path44" />
+            <path
+               d="m 204,74 c 17.47,0.56 33.06,12.25 40,30 -6.94,17.75 -22.53,29.44 -40,30 h -25 c 10.72,-18.56 10.72,-41.44 0,-60 z"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path45" />
+          </g>
+        </g>
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-177"
+           id="g48">
+          <g
+             id="g47">
+            <circle
+               cx="181"
+               cy="89"
+               fill="#ffffff"
+               stroke="#000000"
+               pointer-events="all"
+               id="ellipse46"
+               r="4" />
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="7VJ9Ow-kEt54i5NTJhEi-193"
+         id="g55"
+         inkscape:export-filename="gates/GATE-1011-AORNOTB.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g50" />
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-175"
+           id="g52">
+          <g
+             id="g51">
+            <path
+               d="m 239.64,404 h 20 m -100,-15 h 23 m -23,30 h 23"
+               fill="none"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path50" />
+            <path
+               d="m 199.64,374 c 17.47,0.56 33.06,12.25 40,30 -6.94,17.75 -22.53,29.44 -40,30 h -25 c 10.72,-18.56 10.72,-41.44 0,-60 z"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path51" />
+          </g>
+        </g>
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-178"
+           id="g54">
+          <g
+             id="g53">
+            <circle
+               cx="176.64"
+               cy="419"
+               fill="#ffffff"
+               stroke="#000000"
+               pointer-events="all"
+               id="ellipse52"
+               r="4" />
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="Bq7eC6vHEA2Hn9Y8y7jY-1"
+         id="g189"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g184" />
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-151"
+           id="g186">
+          <g
+             id="g185">
+            <path
+               d="m 128,174 h 20 M 48,159 h 20 m -20,30 h 20"
+               fill="none"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path184" />
+            <path
+               d="m 68,144 h 30 c 16.57,0 30,13.43 30,30 0,16.57 -13.43,30 -30,30 H 68 Z"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path185" />
+            <circle
+               cx="131.75"
+               cy="174"
+               fill="#ffffff"
+               stroke="#000000"
+               pointer-events="all"
+               id="ellipse185"
+               r="3.75" />
+          </g>
+        </g>
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-167"
+           id="g188">
+          <g
+             id="g187">
+            <circle
+               cx="64.139999"
+               cy="159"
+               fill="#ffffff"
+               stroke="#000000"
+               pointer-events="all"
+               id="ellipse186"
+               r="4" />
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="Bq7eC6vHEA2Hn9Y8y7jY-2"
+         id="g195"
+         inkscape:export-filename="gates/GATE-0010-AANDNOTB.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g190" />
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-173"
+           id="g192">
+          <g
+             id="g191">
+            <path
+               d="m 374,174 h 20 M 294,159 h 20 m -20,30 h 20"
+               fill="none"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path190" />
+            <path
+               d="m 314,144 h 30 c 16.57,0 30,13.43 30,30 0,16.57 -13.43,30 -30,30 h -30 z"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path191" />
+          </g>
+        </g>
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-171"
+           id="g194">
+          <g
+             id="g193">
+            <circle
+               cx="310.14001"
+               cy="189"
+               fill="#ffffff"
+               stroke="#000000"
+               pointer-events="all"
+               id="ellipse192"
+               r="4" />
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="Bq7eC6vHEA2Hn9Y8y7jY-4"
+         id="g201"
+         inkscape:export-filename="gates/GATE-0100-NOTAANDB.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"
+         transform="translate(12.186219,-13.346811)">
+        <g
+           id="g196" />
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-172"
+           id="g198">
+          <g
+             id="g197">
+            <path
+               d="m 374,99 h 20 M 294,84 h 20 m -20,30 h 20"
+               fill="none"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path196" />
+            <path
+               d="m 314,69 h 30 c 16.57,0 30,13.43 30,30 0,16.57 -13.43,30 -30,30 h -30 z"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path197" />
+          </g>
+        </g>
+        <g
+           data-cell-id="7VJ9Ow-kEt54i5NTJhEi-169"
+           id="g200">
+          <g
+             id="g199">
+            <circle
+               cx="310.14001"
+               cy="84"
+               fill="#ffffff"
+               stroke="#000000"
+               pointer-events="all"
+               id="ellipse198"
+               r="4" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

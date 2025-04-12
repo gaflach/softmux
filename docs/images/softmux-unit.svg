@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="background: transparent; background-color: transparent; color-scheme: light dark;"
+   version="1.1"
+   width="225px"
+   height="200px"
+   viewBox="-0.5 -0.5 225 200"
+   id="svg130"
+   sodipodi:docname="softmux-unit.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview130"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.39"
+     inkscape:cx="74.25968"
+     inkscape:cy="97.722095"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g130"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-1"
+     id="g1" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-2"
+     id="g2" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-3"
+     id="g3" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-4"
+     id="g4" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-5"
+     id="g5" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-6"
+     id="g6" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-7"
+     id="g7" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-8"
+     id="g8" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-9"
+     id="g9" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-10"
+     id="g10" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-11"
+     id="g11" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-12"
+     id="g12" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-13"
+     id="g13" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-14"
+     id="g14" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-15"
+     id="g15" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-16"
+     id="g16" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-17"
+     id="g17" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-18"
+     id="g18" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-19"
+     id="g19" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-20"
+     id="g20" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-21"
+     id="g21" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-22"
+     id="g22" />
+  <g
+     data-cell-id="CMoe0e9rtqKeUtdmOdqo-23"
+     id="g23" />
+  <g
+     id="g130"
+     inkscape:export-filename="softmux-unit.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <g
+       id="g128"
+       inkscape:export-filename="softmux-unit.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-1"
+         id="g25"
+         transform="translate(0,-6)">
+        <g
+           id="g24">
+          <path
+             d="m 160.85,105.56 h 40"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path23" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-2"
+         id="g27">
+        <g
+           id="g26">
+          <path
+             d="M 157.85,176 V 136.05"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path25" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-3"
+         id="g29">
+        <g
+           id="g28">
+          <path
+             d="M 172.85,176 V 136.05"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path27" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-4"
+         id="g31">
+        <g
+           id="g30">
+          <path
+             d="m 165,116.15 h -50 q -10,0 -4.49,-8.35 l 8.98,-13.59 Q 125,85.86 135,85.86 h 60 q 10,0 15.51,8.35 l 8.98,13.59 q 5.51,8.35 -4.49,8.35 z"
+             fill="#ffffff"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             transform="rotate(90,165,101.01)"
+             pointer-events="all"
+             id="path29" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-5"
+         id="g35">
+        <g
+           id="g32">
+          <circle
+             cx="80"
+             cy="56"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="ellipse31"
+             r="10" />
+        </g>
+        <g
+           id="g34">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g33">
+            <switch
+               id="switch32">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 56px; margin-left: 71px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">σ</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="71"
+                 y="49.5"
+                 width="18"
+                 height="17"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABECAYAAAAiL3M8AAAAAXNSR0IArs4c6QAAA4hJREFUeF7tmVuoTkEYhp8t5ZRDkiilRIoiEkpEKXGDkoiUEiHkRlJuuJALLnAhohwjpJTkkJxvhCIuyClCKOKColhvLfW3mvWvNWv2rL23vrnd38z6vud/552Zb7dgoymBFuPTnIABKlCIATJAYSZiCjIFmYLCCJiCwviZB5mCTEFhBExBYfzMg0xBpqAwAqagMH7mQe1YQT2AqcAsYDQwGBiU5vsWeA3cBT6X1MDtZL1rJWNLh7WFgroCK4CtQM/SmRYH7gHWFIf5RdQNSAo5D4zyS7NUdIcHNBTQNuhfqlz/oA4NqHvqJyMcdX8EzgB3gPtAN2AiMAWY34TTpszfNP+6P9fmM+raYrty/OFpUtQ04F1OmhOAyzleNQR42dpAsuvVAUi+88ZRyENgOvCpoMjxwBUHpAvpCRiVUR2AtgEbHVXIqB+VrG4JcMgROxs4V3KNSmF1AHoMZL3nZuoxZZOWh31wqGg3sLbsIlXiYgMamOMvMt9TngnvBNZn5uhiKA+LNmIDmpT4zC1H9n2BL55VCcTVzJzvQC/PdbzCYwOakzwjzjoyqvJd3aOeOdaSSrX9oowqifokshQ4mJnwJNleI30WSWP1RPnhmCeV6g4UZcQGNM/hNXqA6uiuMv44JumhqytDlBEb0Jj0dtyYfFXf6JdzZ+oNfItCB4gNqE+OGVcpaixw738zadWjXzfb1lCxDzx/9YXA8cwc3/uU5yfjK0gJ6ZiXkTaOfWlPyCfhG8DkzIQDwDKfRXxjY28x5bMF2OxITMf285IJj0u7AdlwNd4EO9qoA5Auha8c20zbZTHgOpkaC+4MnE62pN5djUNt2WHJO+9nNDo1mPS/3DckfZ7tjkL2A6uA3zlFdgEO5/SF9IA9EhOO1q5DQfqOGvQvcrqJasGuy2y3TsDwRHU7gJkOCLps6v6TB7bVuNUFSAkvAo42yVydRZ1KujGrm9isoT8DuNRqFJosVCcgpbEaUO84ZCwAToYs4DO3bkDKbS6wt0LzXttqJaDjvrbRFoBUnBpgywG91bJ3pGzxF4ETyYl1DPhVG5n0Q20FqLFO/RtIx/WAVFXK6X1yAdQxrvbG17qhNH6vPQBqy/oLv22AChAZIANUuIuaBpiCTEGmoDACpqAwfuZBpiBTUBgBU1AYP/MgU5ApKIyAKSiMn3mQKcgUFEbAFBTGzzzIFGQKCiNQMPsv1I5uRW+2LuwAAAAASUVORK5CYII="
+                 id="image32" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-6"
+         id="g39">
+        <g
+           id="g36">
+          <circle
+             cx="80"
+             cy="86"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="ellipse35"
+             r="10" />
+        </g>
+        <g
+           id="g38">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g37">
+            <switch
+               id="switch36">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 86px; margin-left: 71px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">σ</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="71"
+                 y="79.5"
+                 width="18"
+                 height="17"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABECAYAAAAiL3M8AAAAAXNSR0IArs4c6QAAA4hJREFUeF7tmVuoTkEYhp8t5ZRDkiilRIoiEkpEKXGDkoiUEiHkRlJuuJALLnAhohwjpJTkkJxvhCIuyClCKOKColhvLfW3mvWvNWv2rL23vrnd38z6vud/552Zb7dgoymBFuPTnIABKlCIATJAYSZiCjIFmYLCCJiCwviZB5mCTEFhBExBYfzMg0xBpqAwAqagMH7mQe1YQT2AqcAsYDQwGBiU5vsWeA3cBT6X1MDtZL1rJWNLh7WFgroCK4CtQM/SmRYH7gHWFIf5RdQNSAo5D4zyS7NUdIcHNBTQNuhfqlz/oA4NqHvqJyMcdX8EzgB3gPtAN2AiMAWY34TTpszfNP+6P9fmM+raYrty/OFpUtQ04F1OmhOAyzleNQR42dpAsuvVAUi+88ZRyENgOvCpoMjxwBUHpAvpCRiVUR2AtgEbHVXIqB+VrG4JcMgROxs4V3KNSmF1AHoMZL3nZuoxZZOWh31wqGg3sLbsIlXiYgMamOMvMt9TngnvBNZn5uhiKA+LNmIDmpT4zC1H9n2BL55VCcTVzJzvQC/PdbzCYwOakzwjzjoyqvJd3aOeOdaSSrX9oowqifokshQ4mJnwJNleI30WSWP1RPnhmCeV6g4UZcQGNM/hNXqA6uiuMv44JumhqytDlBEb0Jj0dtyYfFXf6JdzZ+oNfItCB4gNqE+OGVcpaixw738zadWjXzfb1lCxDzx/9YXA8cwc3/uU5yfjK0gJ6ZiXkTaOfWlPyCfhG8DkzIQDwDKfRXxjY28x5bMF2OxITMf285IJj0u7AdlwNd4EO9qoA5Auha8c20zbZTHgOpkaC+4MnE62pN5djUNt2WHJO+9nNDo1mPS/3DckfZ7tjkL2A6uA3zlFdgEO5/SF9IA9EhOO1q5DQfqOGvQvcrqJasGuy2y3TsDwRHU7gJkOCLps6v6TB7bVuNUFSAkvAo42yVydRZ1KujGrm9isoT8DuNRqFJosVCcgpbEaUO84ZCwAToYs4DO3bkDKbS6wt0LzXttqJaDjvrbRFoBUnBpgywG91bJ3pGzxF4ETyYl1DPhVG5n0Q20FqLFO/RtIx/WAVFXK6X1yAdQxrvbG17qhNH6vPQBqy/oLv22AChAZIANUuIuaBpiCTEGmoDACpqAwfuZBpiBTUBgBU1AYP/MgU5ApKIyAKSiMn3mQKcgUFEbAFBTGzzzIFGQKCiNQMPsv1I5uRW+2LuwAAAAASUVORK5CYII="
+                 id="image36" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-7"
+         id="g43">
+        <g
+           id="g40">
+          <circle
+             cx="80"
+             cy="116"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="ellipse39"
+             r="10" />
+        </g>
+        <g
+           id="g42">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g41">
+            <switch
+               id="switch40">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 116px; margin-left: 71px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">σ</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="71"
+                 y="109.5"
+                 width="18"
+                 height="17"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABECAYAAAAiL3M8AAAAAXNSR0IArs4c6QAAA4hJREFUeF7tmVuoTkEYhp8t5ZRDkiilRIoiEkpEKXGDkoiUEiHkRlJuuJALLnAhohwjpJTkkJxvhCIuyClCKOKColhvLfW3mvWvNWv2rL23vrnd38z6vud/552Zb7dgoymBFuPTnIABKlCIATJAYSZiCjIFmYLCCJiCwviZB5mCTEFhBExBYfzMg0xBpqAwAqagMH7mQe1YQT2AqcAsYDQwGBiU5vsWeA3cBT6X1MDtZL1rJWNLh7WFgroCK4CtQM/SmRYH7gHWFIf5RdQNSAo5D4zyS7NUdIcHNBTQNuhfqlz/oA4NqHvqJyMcdX8EzgB3gPtAN2AiMAWY34TTpszfNP+6P9fmM+raYrty/OFpUtQ04F1OmhOAyzleNQR42dpAsuvVAUi+88ZRyENgOvCpoMjxwBUHpAvpCRiVUR2AtgEbHVXIqB+VrG4JcMgROxs4V3KNSmF1AHoMZL3nZuoxZZOWh31wqGg3sLbsIlXiYgMamOMvMt9TngnvBNZn5uhiKA+LNmIDmpT4zC1H9n2BL55VCcTVzJzvQC/PdbzCYwOakzwjzjoyqvJd3aOeOdaSSrX9oowqifokshQ4mJnwJNleI30WSWP1RPnhmCeV6g4UZcQGNM/hNXqA6uiuMv44JumhqytDlBEb0Jj0dtyYfFXf6JdzZ+oNfItCB4gNqE+OGVcpaixw738zadWjXzfb1lCxDzx/9YXA8cwc3/uU5yfjK0gJ6ZiXkTaOfWlPyCfhG8DkzIQDwDKfRXxjY28x5bMF2OxITMf285IJj0u7AdlwNd4EO9qoA5Auha8c20zbZTHgOpkaC+4MnE62pN5djUNt2WHJO+9nNDo1mPS/3DckfZ7tjkL2A6uA3zlFdgEO5/SF9IA9EhOO1q5DQfqOGvQvcrqJasGuy2y3TsDwRHU7gJkOCLps6v6TB7bVuNUFSAkvAo42yVydRZ1KujGrm9isoT8DuNRqFJosVCcgpbEaUO84ZCwAToYs4DO3bkDKbS6wt0LzXttqJaDjvrbRFoBUnBpgywG91bJ3pGzxF4ETyYl1DPhVG5n0Q20FqLFO/RtIx/WAVFXK6X1yAdQxrvbG17qhNH6vPQBqy/oLv22AChAZIANUuIuaBpiCTEGmoDACpqAwfuZBpiBTUBgBU1AYP/MgU5ApKIyAKSiMn3mQKcgUFEbAFBTGzzzIFGQKCiNQMPsv1I5uRW+2LuwAAAAASUVORK5CYII="
+                 id="image40" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-8"
+         id="g47">
+        <g
+           id="g44">
+          <circle
+             cx="80"
+             cy="146"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="ellipse43"
+             r="10" />
+        </g>
+        <g
+           id="g46">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g45">
+            <switch
+               id="switch44">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 146px; margin-left: 71px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">σ</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="71"
+                 y="139.5"
+                 width="18"
+                 height="17"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABECAYAAAAiL3M8AAAAAXNSR0IArs4c6QAAA4hJREFUeF7tmVuoTkEYhp8t5ZRDkiilRIoiEkpEKXGDkoiUEiHkRlJuuJALLnAhohwjpJTkkJxvhCIuyClCKOKColhvLfW3mvWvNWv2rL23vrnd38z6vud/552Zb7dgoymBFuPTnIABKlCIATJAYSZiCjIFmYLCCJiCwviZB5mCTEFhBExBYfzMg0xBpqAwAqagMH7mQe1YQT2AqcAsYDQwGBiU5vsWeA3cBT6X1MDtZL1rJWNLh7WFgroCK4CtQM/SmRYH7gHWFIf5RdQNSAo5D4zyS7NUdIcHNBTQNuhfqlz/oA4NqHvqJyMcdX8EzgB3gPtAN2AiMAWY34TTpszfNP+6P9fmM+raYrty/OFpUtQ04F1OmhOAyzleNQR42dpAsuvVAUi+88ZRyENgOvCpoMjxwBUHpAvpCRiVUR2AtgEbHVXIqB+VrG4JcMgROxs4V3KNSmF1AHoMZL3nZuoxZZOWh31wqGg3sLbsIlXiYgMamOMvMt9TngnvBNZn5uhiKA+LNmIDmpT4zC1H9n2BL55VCcTVzJzvQC/PdbzCYwOakzwjzjoyqvJd3aOeOdaSSrX9oowqifokshQ4mJnwJNleI30WSWP1RPnhmCeV6g4UZcQGNM/hNXqA6uiuMv44JumhqytDlBEb0Jj0dtyYfFXf6JdzZ+oNfItCB4gNqE+OGVcpaixw738zadWjXzfb1lCxDzx/9YXA8cwc3/uU5yfjK0gJ6ZiXkTaOfWlPyCfhG8DkzIQDwDKfRXxjY28x5bMF2OxITMf285IJj0u7AdlwNd4EO9qoA5Auha8c20zbZTHgOpkaC+4MnE62pN5djUNt2WHJO+9nNDo1mPS/3DckfZ7tjkL2A6uA3zlFdgEO5/SF9IA9EhOO1q5DQfqOGvQvcrqJasGuy2y3TsDwRHU7gJkOCLps6v6TB7bVuNUFSAkvAo42yVydRZ1KujGrm9isoT8DuNRqFJosVCcgpbEaUO84ZCwAToYs4DO3bkDKbS6wt0LzXttqJaDjvrbRFoBUnBpgywG91bJ3pGzxF4ETyYl1DPhVG5n0Q20FqLFO/RtIx/WAVFXK6X1yAdQxrvbG17qhNH6vPQBqy/oLv22AChAZIANUuIuaBpiCTEGmoDACpqAwfuZBpiBTUBgBU1AYP/MgU5ApKIyAKSiMn3mQKcgUFEbAFBTGzzzIFGQKCiNQMPsv1I5uRW+2LuwAAAAASUVORK5CYII="
+                 id="image44" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-9"
+         id="g49">
+        <g
+           id="g48">
+          <path
+             d="m 90,146 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path47" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-10"
+         id="g51">
+        <g
+           id="g50">
+          <path
+             d="m 90,116 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path49" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-11"
+         id="g53">
+        <g
+           id="g52">
+          <path
+             d="m 90,86 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path51" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-12"
+         id="g55">
+        <g
+           id="g54">
+          <path
+             d="m 90,56 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path53" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-13"
+         id="g57">
+        <g
+           id="g56">
+          <path
+             d="M 50,56 H 70"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path55" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-14"
+         id="g61">
+        <g
+           id="g58">
+          <rect
+             x="30"
+             y="46"
+             width="20"
+             height="20"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="rect57" />
+        </g>
+        <g
+           id="g60">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g59">
+            <switch
+               id="switch58">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 56px; margin-left: 31px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                      <xhtml:span
+                         style="font-size: 12px;">W</xhtml:span>
+                      <xhtml:sub>0</xhtml:sub>
+                    </xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="31"
+                 y="48.5"
+                 width="18"
+                 height="19"
+                 xlink:href="data:image/png;base64,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"
+                 id="image58" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-15"
+         id="g65">
+        <g
+           id="g62">
+          <rect
+             x="30"
+             y="76"
+             width="20"
+             height="20"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="rect61" />
+        </g>
+        <g
+           id="g64">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g63">
+            <switch
+               id="switch62">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 86px; margin-left: 31px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">W<xhtml:sub>1</xhtml:sub>
+</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="31"
+                 y="78.5"
+                 width="18"
+                 height="19"
+                 xlink:href="data:image/png;base64,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"
+                 id="image62" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-16"
+         id="g69">
+        <g
+           id="g66">
+          <rect
+             x="30"
+             y="106"
+             width="20"
+             height="20"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="rect65" />
+        </g>
+        <g
+           id="g68">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g67">
+            <switch
+               id="switch66">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 116px; margin-left: 31px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">W<xhtml:sub>2</xhtml:sub>
+</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="31"
+                 y="108.5"
+                 width="18"
+                 height="19"
+                 xlink:href="data:image/png;base64,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"
+                 id="image66" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-17"
+         id="g73">
+        <g
+           id="g70">
+          <rect
+             x="30"
+             y="136"
+             width="20"
+             height="20"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="rect69" />
+        </g>
+        <g
+           id="g72">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g71">
+            <switch
+               id="switch70">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 146px; margin-left: 31px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                      <xhtml:span
+                         style="font-size: 12px;">W</xhtml:span>
+                      <xhtml:sub>3</xhtml:sub>
+                    </xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="31"
+                 y="138.5"
+                 width="18"
+                 height="19"
+                 xlink:href="data:image/png;base64,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"
+                 id="image70" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-18"
+         id="g75">
+        <g
+           id="g74">
+          <path
+             d="M 50,86 H 70"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path73" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-19"
+         id="g77">
+        <g
+           id="g76">
+          <path
+             d="M 50,116 H 70"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path75" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-20"
+         id="g79">
+        <g
+           id="g78">
+          <path
+             d="M 50,146 H 70"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path77" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-21"
+         id="g83">
+        <g
+           id="g80">
+          <rect
+             x="147.85001"
+             y="176"
+             width="25"
+             height="20"
+             fill="none"
+             stroke="none"
+             pointer-events="all"
+             id="rect79" />
+        </g>
+        <g
+           id="g82">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g81">
+            <switch
+               id="switch80">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 23px; height: 1px; padding-top: 186px; margin-left: 149px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">S<xhtml:sub>1</xhtml:sub>
+</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="149"
+                 y="178.5"
+                 width="23"
+                 height="19"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABMCAYAAADgOdDDAAAAAXNSR0IArs4c6QAABUtJREFUeF7tm3nodkMUxz+vpWT3CpEle4QiZIlIUpZ/iJKll+QPSkREQpaUJdmTyL6TP+z7vmSLkJCtlJC9pGzzZZ66722e+87cZ+7c5z7Pmfr98ft15pw5n5l75pyZ+S3AWlECC4paM2MY8MKLwIAb8MIECpuzFW7ACxMobM5W+BwA1yRvDmwIbAxs6n9fD/gG+Bj4wv98DrwF/FWYS2fmSq/wHYArgJ0SPNIEXOgm5U7gj4R+UylaCvg6wAVu1S6agMK3Hvy1QwZfAvh2PixMwHqxrk8CBwG/5lJYUk/XwBWX3wTWXIJTnwE/+Xi+UgSAF4E9gL8jZKdKpGvgdwOHjPH4dLdp3uo3yuqmuBawCbAzcHEDrWOB66eKZsRgugQ+LpQ8DBwFfBcxPmUwtwPabOtNIWUh8GeEnqkR6RL4eQ7GmTVPtfFtAfyQQGBZ4Ebg8ECfXYFXEnT1Ltol8HeBbWoeHgrc1cJrZTlfB/qdDZzbQl9vXboE/gtQ3wA3AL5q6e0Nru/Rtb762zEt9fXSrSvgywG/BzxaFfi5paeK+wot1ab9YP+W+nrpVhr4PsATLT3VMYBCSLW95lLOa1rq66VbV8DlTCikKH/eb6hFS44Z6hL4s744qY9Tq/IIl3V8msOBoenoErgKk+sagDwH3Ac8DXw0NHBtx9sl8BUBpYYbRQxO+bli+wvA6646/XBoBU2Ej/+JdAlc+lUhagXHnI/Ux/w48JILS/oSFIYGVVGOm4CugcuuKkuFji1jV0FATmX8/cBNwPMT6Om9awngcnIpn52cBqgcn6Q9CpwKvD+Jkr76lgJe9U9HtnsBysmVIrYJN9K3N/BUX+Da2u0DeHWsy/iQs6PbNHfxaWTMJjvSsRXwQVvn++jXN/CQzzqo0hewb8QX8LLblHdzFeg/LeDtCegIQk2XJDHHxS3MLN5lGoFXRygghwFnNKSXOnd/J5HE+u5M/stKHxVityXqaCU+7cBHTin0PODuRg8IeHkWoLP3lHYycMmsANcRbB2Anjqcn0IkILsK8HZgpeua7sgE3av5EFLdKwa9wvXIp16qq5LUXeWk7XJ3W3RCTckzPubH6NaV3IM+7lflBw18deD7gPdy9scYKg0yofMZVaLaAENNk6xj3c38JnzwGLlBA196TBmew6njgKtr0O7wG2udpezdEjnBOcYWZaqrTfMxX9hUB6EDKeXNbVK4kZ57XN5dX6WXAqcEvFVcvzmKwv/HxYPOUo4Hrgo4q5K86a1JEx+9R3w1IKB3L/fOO3DFa72ADZXtJwJXJr6a2h14aIw+2fgtAHyFhtz9EWDdWUkLR34I7GVjluwb/s2KrtxCl83qpvRta5+V6C1hqOlr0VeT2vQEWgXTqA0+pMiRpmKlCkinf6r69DhoZX+Mq1i/pPeI2hO2b5iwpkmYSeByeHn3FlwbqM47cjYVQAfWyvMU/TMLXBD0VE3ld/3ZWwqgquxF7pdzWq7skZ6ZBj5yclv3COgkf2OfCvs9/58Teo0b2iBT9c0F8BGUtQFlHTr/1jm4YvUaPgPRVdongP63R3Fdz+J0n6mL5ZxtroCPA6cibJKiKGVCDHgKrQyyBjwDxBQVBjyFVgZZA54BYooKA55CK4OsAc8AMUWFAU+hlUHWgGeAmKLCgKfQyiBrwDNATFFhwFNoZZA14BkgpqjQQ//qs+lx96IpOqNku7q1jzI+j0IGvPCsG3ADXphAYXO2wg14YQKFzdkKN+CFCRQ2ZyvcgBcmUNicrXADXphAYXO2wg14YQKFzdkKN+CFCRQ2ZyvcgBcmUNjcv1r31U13lz21AAAAAElFTkSuQmCC"
+                 id="image80" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-22"
+         id="g87">
+        <g
+           id="g84">
+          <rect
+             x="162.85001"
+             y="176"
+             width="25"
+             height="20"
+             fill="none"
+             stroke="none"
+             pointer-events="all"
+             id="rect83" />
+        </g>
+        <g
+           id="g86">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g85">
+            <switch
+               id="switch84">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 23px; height: 1px; padding-top: 186px; margin-left: 164px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">S<xhtml:sub>0</xhtml:sub>
+</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="164"
+                 y="178.5"
+                 width="23"
+                 height="19"
+                 xlink:href="data:image/png;base64,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"
+                 id="image84" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-23"
+         id="g91"
+         transform="translate(0,-6)">
+        <g
+           id="g88">
+          <rect
+             x="195"
+             y="96.150002"
+             width="25"
+             height="20"
+             fill="none"
+             stroke="none"
+             pointer-events="all"
+             id="rect87" />
+        </g>
+        <g
+           id="g90">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g89">
+            <switch
+               id="switch88">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 23px; height: 1px; padding-top: 106px; margin-left: 196px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Y</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="196"
+                 y="99.5"
+                 width="23"
+                 height="17"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABECAYAAAAMalKuAAAAAXNSR0IArs4c6QAAA6hJREFUeF7t2UvoTUEcwPHvPzaeCwsLobxCXiWFKPJMEnmFspCFjYVHSBJZSBQrZWFh4ZVXlCw8kyRk45G3FCtZiLKRmF+u+jvN/+8398ydM6d+Z3nvb34zv8+Ze2bm3DbsSirQlrQ36wwDTzwJDNzAEwsk7s5muIEnFkjcnc1wA08skLi7Kmf4EOCNp95PwHDgSwSLZcAZT567wNQI+YNTVAkugz0HLPGM+iCwObiafxv0BN4CfT15pM8LJfM31bxq8H7AC6CXZ/Rj3c140lRVfxrtBbZ72l8CFpXIW6pp1eAy+HXAEU8Vd4BpwK8mKhwBPO+g3UDgQxM5ozTJAbwLcBuY4qloJXC6iUqvArM97dYDh5vIF61JDuBSzCjgaQcL6DDga0DFi4HznviHwGTgZ0Cu6KG5gEthu93jY5enwv3ANmXlPYB3HSyU44DHyjwtC8sJvFtjlg/2VDsaeKZQ2ONm8E5PnCygOxTtWx6SE7gUO90tlLc8Vd8EZv1nAZVHzytPW5nxY4DvLddUdJAbuAz5qNtFrPWMfbl71p/tpKYrwDzP93KjbigskoTkCN4HeO/Zm8sJdKg7EH3zyCwELno+PwasSSKp7CRHcBn6Cne8P+WpYZ/nMNMdeOl+Gf0L8XJjZD34rLRIEpYruBTf0SNiZON0+hdIdjaywyleq90v4ngSxYBOcgYf1NjiFcu5BsxpfCiPmNeeeiVmbpOn1AC+8NCcwaWajYC8yCpeSxuHm8vAfM/3ciPkxVV2V+7gXd3O4z4wviAnC+gG4KRHdCtwIDvpxoByB5dhCvYjJaCcJCe4Q84PZXzysDqAC4oc77codCYCDxRxlYXUBVz+TJDXrcWtX3u4Q+4l16bKJJUd1wVcypFTpGwVfVdnhyIlRZqwOoGLyAn3vmSVh2aBe3bLjiX7q27gM92fv9cLqnKi7J29dI12Ke0tZ3heRBl4C2ebgbcQ15fawA08TKBui6bN8LD7WzrawEsThiUw8DCv0tEGXpowLIGBh3mVjjbw0oRhCQw8zKt0tIGXJgxLMMn9OXyv0OQjMCAsTXXRdTv4VCcVqWcDjwSpTWPgWqlIcQYeCVKbxsC1UpHiDDwSpDaNgWulIsUZeCRIbRoD10pFijPwSJDaNAaulYoUZ+CRILVpDFwrFSnOwCNBatMYuFYqUpyBR4LUpjFwrVSkOAOPBKlNY+BaqUhxBh4JUpvGwLVSkeIMPBKkNo2Ba6UixRl4JEhtmt/f6HFFKOHVHQAAAABJRU5ErkJggg=="
+                 id="image88" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-24"
+         id="g95">
+        <g
+           id="g92">
+          <rect
+             x="110"
+             y="46"
+             width="20"
+             height="20"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="rect91" />
+        </g>
+        <g
+           id="g94">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g93">
+            <switch
+               id="switch92">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 56px; margin-left: 111px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                      <xhtml:sub><xhtml:span
+   style="font-size: 12px;">T</xhtml:span>
+
+0</xhtml:sub>
+                    </xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="111"
+                 y="47.5"
+                 width="18"
+                 height="21"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABUCAYAAAAh+XGnAAAAAXNSR0IArs4c6QAABAdJREFUeF7tmlnITVEUx3+fkIhQMmYuL4bMUyllKg+GwosHTyTKkAgPPAgpkSmSPCgPyJw5JZEhhBQyJUNkKkUinKV7vk7bvvfsbZ8v7dvaj/esve9ev/tfa6+9zq1BR0UCNcqnMgEFlKMQBaSAwpKIKkgVpAoKI6AKCuOnOUgVpAoKI6AKCuOnOUgVpAoKI6AKCuOnOUgVpAoKI6AKCuPnk4P6AjfDvs57dm/grvesAif4ABoGXCrwu12WGgJcdTGsKxsFVGAOUgXlwOwIrPKQ8kSgqWH/FjjtscZS4KWHfeGmPiHm++W7gRnGpJ3ATN+F/qd97IBEoV2AbkAT4FNJcQ+AL0WAjRVQB2AZMLsMhM/ALmAT8DQEVIyAJgCHHZ0WUNOAk472f5nFBmgkcP4fnB0LnPmHecQEqGWS9J9ZTsbrwAngFtALGAcMt5ye8kxOUa8RE6AViWcrDe82AAstHs8DNhqfrynlraoE1AL4YHh2DJgM/LB4LD/8oURVkq/S8QLoBPz0IRSLgqYnR/kew7H2SU31qoKzbS3PhyYheKUaAe0wCkzJO4McHL0NSEcgHeVCsuxSsSjoMdA148VyYLUDoPVGjrqThF4fh3m1JjEAame5jw0Abjg4atZMUhc1c5gXFaCBwDXDqVbAOwdHbU2+BmUSu3W5GBQ0Kqlrzhq7d3VSwlLCMzvaJFeUNw5w/5jEAGgKsC/jkE+YSHH53oDRE7hXTYBmAdszDj0p3d5dfKwPfDcMRwAXXSbHoqD5gBzP6ZAXB/0dHZQIMQvDwZacFvUxbxaJD4EejoAaAV8N2+6WvBQ1oDFGm9YnBzUHPhrey7VFGmtOI4YkbTuqXfctSrtvkKgH/HKiE8kpZisU5bPXDk6aJYK0O1o7zKs1cf0lfNZMbYtq2jcEvhkbkAr5qMOm5gBbMnZST0nIOo8YAIkzcq3ol/FqbQJNXgnljYPApIzRXGBr3qTs81gAmQ0wqYUkv9h6Qal/th6S1wkmC8UCyJaHpgL7K6hBuo/ShUyHT3kQVQ5KN3sKkOZ7OuS4l7B7ZIEkobTZ+HwJsM4nvGJSkOx1PHDccFBOpUXAkdKVQipsacMuMOwkJOUOZhaNubxiCbHUkW0VXhZWcnY0cC6XhsUgNkCNgb1GMz7Pb+kGHMgzKve8LgFJDpBckB3yKsaUv+/epRKWfCLHvPnvkexa0pxf7HNzt22kLgH5Ou5rL39WkBpHmvKdS63U56V38ReSgvCy74LVBqgI/3PXiFlBuc4VYaCAcigqIAUUFmiqIFWQKiiMgCoojJ/mIFWQKiiMgCoojJ/mIFWQKiiMgCoojJ/mIFWQKiiMgCoojJ/mIFWQKiiMgCoojJ/mIFVQmIJ+A9j8wFUMQP9KAAAAAElFTkSuQmCC"
+                 id="image92" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-25"
+         id="g99">
+        <g
+           id="g96">
+          <rect
+             x="110"
+             y="76"
+             width="20"
+             height="20"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="rect95" />
+        </g>
+        <g
+           id="g98">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g97">
+            <switch
+               id="switch96">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 86px; margin-left: 111px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                      <xhtml:sub><xhtml:span
+   style="font-size: 12px;">T</xhtml:span>
+
+1</xhtml:sub>
+                    </xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="111"
+                 y="77.5"
+                 width="18"
+                 height="21"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABUCAYAAAAh+XGnAAAAAXNSR0IArs4c6QAAAdpJREFUeF7tmTEvBFEURs9WJKJVISERFYlO1FQahZ5KJDRKvVYiIVEo9GqNqEk0Gp2ags4/YDYrNpO1b547S+yeLWfufS85c+73MjsN/HUl0JBPdwICShgiIAHFQkSDNEiDYgQ0KMbPDNIgDYoR0KAYPzNIgzQoRkCDYvzMIA3SoBgBDYrxy8mgBeA+tl129zzwkN1VY0MOoCXgpsa9qyy1CNxVKexVjYBqzCANSsCcBA4yVF4DRkv1r8BVxhr7wHNGfe2lOSOWu/k5sFlqOgO2chf6y/p+AjQOzLVgvgG3dYDtJ0CnwHYLyhMwIaAvAsNAkW+fmSegkh07wEnbNQG1YBQRsQ5clIANLKAhYAqYAYpXnw1gukPWDCygF2CsQvgKKAFJQALqTKDIm5EOt1Y+jvhDT7HvtVkFLgUkoArnU+cSDUqgE5CAfjxdzUYN0iANahLo1V+ujpgj5og5YmUHfvOzjxlkBplBZpAZlDkFhnQC2DGwW6o5AvYyQVcpXwau2wofgdkqjamaXn6bT+39L+4LKPGYBCSg2CRrkAZpUIyABsX4mUEapEExAhoU42cGaZAGxQhoUIyfGaRBGhQjoEExfmaQBmlQjIAGxfiZQRqkQTECGhTj9w7NcoJV9izf9QAAAABJRU5ErkJggg=="
+                 id="image96" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-26"
+         id="g103">
+        <g
+           id="g100">
+          <rect
+             x="110"
+             y="106"
+             width="20"
+             height="20"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="rect99" />
+        </g>
+        <g
+           id="g102">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g101">
+            <switch
+               id="switch100">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 116px; margin-left: 111px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                      <xhtml:sub><xhtml:span
+   style="font-size: 12px;">T</xhtml:span>
+
+2</xhtml:sub>
+                    </xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="111"
+                 y="107.5"
+                 width="18"
+                 height="21"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABUCAYAAAAh+XGnAAAAAXNSR0IArs4c6QAAA4dJREFUeF7tmkvITVEUx38fJpSB8phgIJFnKCUSZWBEIq+BSB4lA5R8igglj4FSFMrEOyUxMRJFSBJFeQwUBh7lUUaUs3SvjtO+96x917l99m2tMrLWuf1//ffae6/9deHRlECX82lOwAGVOMQBOSBbE3EHuYPcQTYC7iAbP+9B7iB3kI2AO8jGz3uQO8gdZCPgDrLx8x7kDnIH2Qi4g2z8YnrQZOCR7eeiqycCT6OrKiyIATQduFPhb2s+NQ24r0lsV44DqrAHuYNKYA4H9kVYeQHQv5D/AbgR8Y3twLuI/MpTY5ZY7I+fBlYVik4C62I/1JP5qQMaCkwChtT+fQNeAS+BN8BPK9xUAS0ENgEzSwBcAjYCH1sFlRqgfsAxYGWE4O/ACuBqRM3f1NQAhfqaVvdi4LI2uZ6XEqDlwLmAwGvAXeAh0AsYB3RnThsc2EFHAuIodaQE6AEwtaBMoF0IqJXjxdHAUjxQg9dxgMYAzwqq1gMnmijtCzzOXDcql/MWGKamA6TiINmJxBH1eAGMVghdluWdL+QNyHbAL4raPympADoIbM2J2gPsUogcH5gGzKj1LEV5OoAuZktsSU6RbNtnFApHZFv860LeLOC2ojYpBxUBzQZuKUTOD5x/BmWHx0+K2qQAafXk83oDNwunbbksy7VEHan0ILWgXKKchfYXCmXXk91PHZ0IqE9tLLOtQEHcMxb4rKaT0C6m1SRz81PAlEDBPOC69kP1vE5xkJxtdgKbGwDYkPWe47FwJD91QLKcVgOHA9NL0Scn50WAXFNaipQByTKS2708DYViN3AI+NESmVpRioBk+5alJOJDIXMfOXXLVNEcqQGSC+gVYG5AuTxqblEeINXgUgIks56zgFxA8yHzHQEjy+2XWrkyMSVAO4C9BV3y0ru0nU9DqQAaGBi83wPmWJtwmZFSAbQGkDe1esj2LYdC9aWzDESj/08FkIwn8k88a2sn5lZ1q+tSACTzZXkQzMeTbKv/qlb5b6I0+ffa2hQATQAESFUhF9bn2o+lACg09NLqC+X9N4BkyC7D9nwcaXKhbCRa/gBCzjhVhbyNFcewDb/dTgdVJahHv+OASvA7IAdkW6HuIHeQO8hGwB1k4+c9yB3kDrIRcAfZ+HkPcge5g2wE3EE2ft6D3EHuIBsBd5CNn/cgd5A7yEbAHWTj5z3IHeQOshFwB9n4/QYeXaNVJApycgAAAABJRU5ErkJggg=="
+                 id="image100" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-27"
+         id="g107">
+        <g
+           id="g104">
+          <rect
+             x="110"
+             y="136"
+             width="20"
+             height="20"
+             fill="#ffffff"
+             stroke="#000000"
+             pointer-events="all"
+             id="rect103" />
+        </g>
+        <g
+           id="g106">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g105">
+            <switch
+               id="switch104">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 146px; margin-left: 111px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                      <xhtml:sub><xhtml:span
+   style="font-size: 12px;">T</xhtml:span>
+
+3</xhtml:sub>
+                    </xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="111"
+                 y="137.5"
+                 width="18"
+                 height="21"
+                 xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABUCAYAAAAh+XGnAAAAAXNSR0IArs4c6QAAA/5JREFUeF7tmlvITmkUx3+fY5QU5RAhp0ZTyllKIXNhlISUMo1Sk3O5UA6RC27kQk4z5cKFuRqkiZIUuVDIITGU8zjczAUTFyin/dd+tT1t336e93nfeD7rufn6etez916/97/Ws9babwu2WiXQYnxaJ2CAKhRigAxQXBIxBZmCTEFxBExBcfwsB5mCTEFxBExBcfwsB5mCTEFxBExBcfwsB5mCTEFxBExBcfxCctAo4HLc7YJ3jwSuBe9q4IYQQJOAsw28t8+lJgLnfQybZWOAGpiDTEEVMAcAWwKkPBvo5tj/B5wIuMY64EmAfcNNQ0Is9Ob7gUXOpn3Ab6EX+pr2KQPqBIwG+gK9gbfAI+Bh/vdFI8CmCKgPsAH4tSSEi0yOZ/9sBi7EgEoN0FTg7wowLg/ZLwBe1gMqJUDDgFv1OAn8ASytZ29KgBQq4xwn7wHHgCt57tFJ+wswrQTGfOBgKKRUAI0vqahPASolypLxvBIYCjXZB61UAO0BlhU8U8szHXjVirfrga2Fz1WD6bQLWqkAugqoca2tOcCRCk+HArcdm57A0xBCqQB67pxcPYBnFY52B/53bAYB/7Y1QCoIXztO+XyxU4DTzr6OwJu2Bkj+/AgIlJZg3fBw8ndgScFOe3SdoOXzTQRdsGD8tXqxDsDOkrpHx/+foc6kDqgLsDAPGxWS6s00lnGnCJog/Ay8+94ADcwmBg8qnF4LbM+b2VA+pK4gH0CqtgUpuIoWzdQB9QMee8piJbDb0/aTWeqA5IjyjRJzr6wp1ShEg/4VQP8SGOrlLoZAaguAyvwVsE1Z3tnofKjqW1W492qrgASgHfBX9l5trkMjqFhMAVDnrOmUU7WlBtW3Gp6Zj0OKjILajRQAHXJUsDzLN3s9Y2RIVifdcWwnhIxhUwCkqlgnUG3tyjryVZ6Ayjr6wdk8+77n/iSOec2BNA+qLf0+YIyng0rIhwu2Gq6py3/vuT8JQBqMnXQcGgtcqnBSbcg5Z450NPsBxixfOLJLIcS65iGhOqe2VBzOAK5/wVnBUSgudj5XfVRUYyWrFADJCTWkBxxvFC5qIVT43cxf62horyS8raRQlJomB5yAH2+XCqD2+cmjbr3epW7fPdEqr5UKIDmivkszpp8qvfrcQO/S9HuAM4H7mq4g5QDFfHHtAFbX86D5HlXHqoN09PusNXkucke2PnubDsj7Ieow1NB+BDAc+AFQ+Ki6VghJMXeBf0LfYJQ9RzNDrA6/v70tBqjiOzFABigubE1BpiBTUBwBU1AcP8tBpiBTUBwBU1AcP8tBpiBTUBwBU1AcP8tBpiBTUBwBU1AcP8tBpiBTUBwBU1AcP8tBpiBTUByBit0fAG8xuFXV8jq1AAAAAElFTkSuQmCC"
+                 id="image104" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-28"
+         id="g109">
+        <g
+           id="g108">
+          <path
+             d="m 130,56 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path107" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-30"
+         id="g111">
+        <g
+           id="g110">
+          <path
+             d="m 130,85.86 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path109" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-31"
+         id="g113">
+        <g
+           id="g112">
+          <path
+             d="m 130,115.97 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path111" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-32"
+         id="g115">
+        <g
+           id="g114">
+          <path
+             d="m 130,145.97 h 20"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             pointer-events="stroke"
+             id="path113" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-34"
+         id="g117">
+        <g
+           id="g116">
+          <rect
+             x="20"
+             y="36.009998"
+             width="40"
+             height="130"
+             rx="6"
+             ry="6"
+             fill="none"
+             stroke="#cccccc"
+             stroke-dasharray="3, 3"
+             pointer-events="all"
+             style="stroke:#cccccc"
+             id="rect115" />
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-35"
+         id="g121">
+        <g
+           id="g118">
+          <rect
+             x="83.919998"
+             y="4"
+             width="72.150002"
+             height="30"
+             fill="none"
+             stroke="none"
+             pointer-events="all"
+             id="rect117" />
+        </g>
+        <g
+           id="g120">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g119">
+            <switch
+               id="switch118">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 70px; height: 1px; padding-top: 19px; margin-left: 85px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 10px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Truth<xhtml:div>Table</xhtml:div>
+</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="85"
+                 y="7.5"
+                 width="70"
+                 height="26.5"
+                 xlink:href="data:image/png;base64,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"
+                 id="image118" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-36"
+         id="g125">
+        <g
+           id="g122">
+          <rect
+             x="3.9200001"
+             y="4"
+             width="72.150002"
+             height="30"
+             fill="none"
+             stroke="none"
+             pointer-events="all"
+             id="rect121" />
+        </g>
+        <g
+           id="g124">
+          <g
+             transform="translate(-0.5,-0.5)"
+             id="g123">
+            <switch
+               id="switch122">
+              <foreignObject
+                 style="overflow: visible; text-align: left;"
+                 pointer-events="none"
+                 width="100%"
+                 height="100%"
+                 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                <xhtml:div
+                   style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 70px; height: 1px; padding-top: 19px; margin-left: 5px;">
+                  <xhtml:div
+                     style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                    <xhtml:div
+                       style="display: inline-block; font-size: 10px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><xhtml:div>Trainable</xhtml:div>
+
+Weights</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </foreignObject>
+              <image
+                 x="5"
+                 y="7.5"
+                 width="70"
+                 height="26.5"
+                 xlink:href="data:image/png;base64,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"
+                 id="image122" />
+            </switch>
+          </g>
+        </g>
+      </g>
+      <g
+         data-cell-id="o1AwmLtwUOPK8Yfx0qpp-33"
+         id="g127">
+        <g
+           id="g126">
+          <rect
+             x="100"
+             y="36"
+             width="40"
+             height="130"
+             rx="6"
+             ry="6"
+             fill="none"
+             stroke="#cccccc"
+             stroke-dasharray="3, 3"
+             pointer-events="all"
+             style="stroke:#cccccc"
+             id="rect125" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
