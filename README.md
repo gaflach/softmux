@@ -4,6 +4,8 @@ This project explores how digital circuits can be _grown_ using deep learning te
 
 During training, fuzzy bits — continuous values in the range [0, 1] — propagate through the network, enabling gradient-based optimization. After training, the network is discretized — replacing fuzzy logic with hard binary logic — resulting in a structure that can be directly translated into a digital circuit.
 
+![Softmux Unit](docs/images/digital-circuit-mnist.png)
+
 Early results on classic classification benchmarks show that the approach achieves competitive accuracy, which is largely retained even after full discretization.
 
 ## Related Work
