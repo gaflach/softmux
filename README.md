@@ -6,7 +6,7 @@ This project explores _growing_ digital circuits using deep learning techniques.
 During training, fuzzy bits — continuous values in the range [0, 1] — propagate through the network, enabling gradient-based optimization. After training, the network is discretized — replacing fuzzy bits with hard binary bits — resulting in a structure that can be directly translated into a digital circuit.
 
 <div align="center">
-  <img src="docs/images/digital-circuit-mnist.png" alt="Mockup of a digital circuit for handwritten digit recognition." width=600/>
+  <img src="docs/images/digital-circuit-mnist.png" alt="Mockup of a digital circuit for handwritten digit recognition."/>
 </div>
 
 Early results on classic classification benchmarks show that the approach achieves competitive accuracy, which is largely retained even after full discretization.
@@ -77,7 +77,7 @@ A Softmux Network is a sparse, multi-layer architecture. Each layer consists of 
 The final layer outputs multiple bits per class, with each bit acting as a voter. The votes are summed per class to produce class scores, forming a simple majority-voting mechanism. The class with the highest score is selected as the prediction.
 
 <div align="center">
-  <img src="docs/images/softmux-network.png" alt="Mockup of a softmux neural network." width=500/>
+  <img src="docs/images/softmux-network.png" alt="Mockup of a softmux neural network."/>
 </div>
 
 ## Implementation Details

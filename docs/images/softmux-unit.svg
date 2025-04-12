@@ -8,6 +8,9 @@
    id="svg130"
    sodipodi:docname="softmux-unit.svg"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   inkscape:export-filename="softmux-unit.png"
+   inkscape:export-xdpi="149.33333"
+   inkscape:export-ydpi="149.33333"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,13 +27,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="4.39"
-     inkscape:cx="74.25968"
-     inkscape:cy="97.722095"
-     inkscape:window-width="1920"
+     inkscape:cx="74.259681"
+     inkscape:cy="97.722096"
+     inkscape:window-width="1200"
      inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g130"
      showgrid="true">
     <inkscape:grid
@@ -873,6 +876,7 @@
                       <xhtml:sub><xhtml:span
    style="font-size: 12px;">T</xhtml:span>
 
+
 0</xhtml:sub>
                     </xhtml:div>
                   </xhtml:div>
@@ -925,6 +929,7 @@
                        style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                       <xhtml:sub><xhtml:span
    style="font-size: 12px;">T</xhtml:span>
+
 
 1</xhtml:sub>
                     </xhtml:div>
@@ -979,6 +984,7 @@
                       <xhtml:sub><xhtml:span
    style="font-size: 12px;">T</xhtml:span>
 
+
 2</xhtml:sub>
                     </xhtml:div>
                   </xhtml:div>
@@ -1031,6 +1037,7 @@
                        style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                       <xhtml:sub><xhtml:span
    style="font-size: 12px;">T</xhtml:span>
+
 
 3</xhtml:sub>
                     </xhtml:div>
@@ -1207,6 +1214,7 @@
                      style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                     <xhtml:div
                        style="display: inline-block; font-size: 10px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><xhtml:div>Trainable</xhtml:div>
+
 
 Weights</xhtml:div>
                   </xhtml:div>
