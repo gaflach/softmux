@@ -12,6 +12,9 @@ During training, fuzzy bits — continuous values in the range [0, 1] — propag
 Early results on classic classification benchmarks show that the approach achieves competitive accuracy, which is largely retained even after full discretization.
 
 ## Related Work
+
+[Neural Combinatorial Logic Circuit Synthesis from Input-Output Examples](https://github.com/pbelcak/neccs)
+
 [Deep Differentiable Logic Gate Networks](https://github.com/Felix-Petersen/difflogic)
 
 ## Softmux Unit
